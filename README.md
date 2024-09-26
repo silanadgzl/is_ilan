@@ -14,4 +14,6 @@ Favori İlanlar: Kullanıcılar, beğendikleri iş ilanlarını favorilere ekley
  6. **DetailCardWidget**: İlan detaylarını gösteren özel bir widget. İlanla ilgili ek bilgileri yapılandırmak için kullanılır. 
 
 ![image alt](https://github.com/silanadgzl/is_ilan/blob/main/ss1.jpeg?raw=true)
-![Açıklayıcı Metin](ss1.jpg)
+![image alt](https://github.com/silanadgzl/is_ilan/blob/main/ss2.jpeg?raw=true)
+
+
