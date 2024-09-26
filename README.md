@@ -15,5 +15,11 @@ Favori İlanlar: Kullanıcılar, beğendikleri iş ilanlarını favorilere ekley
 
 ![image alt](https://github.com/silanadgzl/is_ilan/blob/main/ss1.jpeg?raw=true)
 ![image alt](https://github.com/silanadgzl/is_ilan/blob/main/ss2.jpeg?raw=true)
+![image alt](https://github.com/silanadgzl/is_ilan/blob/main/ss3.jpeg?raw=true)
+![image alt](https://github.com/silanadgzl/is_ilan/blob/main/ss4.jpeg?raw=true)
+![image alt](https://github.com/silanadgzl/is_ilan/blob/main/ss5.jpeg?raw=true)
+![image alt](https://github.com/silanadgzl/is_ilan/blob/main/ss6.jpeg?raw=true)
+![image alt](https://github.com/silanadgzl/is_ilan/blob/main/ss7.jpeg?raw=true)
+
 
 
