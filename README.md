@@ -1,6 +1,9 @@
 Veri Filtreleme: Uygulama, JSON'dan aldığı verileri filtreleyerek kullanıcıların iş ilanları arasında arama yapmasına olanak tanır. Çalışma şekline göre filtreleme özelliği eklenmiştir.
+
 Favori İlanlar: Kullanıcılar, beğendikleri iş ilanlarını favorilere ekleyebilir. Favori ilanlar, özel bir sayfada kartlar şeklinde görüntülenir. Kullanıcı, bu kartlara tıkladığında ilgili iş ilanının detay sayfasına eklediği ilan gönderilir.
+
 İş Detay Sayfası: Detay sayfasında, JSON'dan alınan verilerle iş tanımı, gereksinimler ve maaş aralığı gibi bilgiler kullanıcıya sunulmaktadır.
+
 Özel Font Kullanımı: Uygulamada, Google'dan indirilen Coiny fontu kullanılarak estetik bir görünüm sağlanmıştır.
 
  1. **FavoriProvider**: Bu sınıf, favori ilanları yönetir. Kullanıcı bir ilanı favorilere ekleyebilir veya çıkarabilir. Ayrıca, bir ilan favorilerde olup olmadığını kontrol etme işlevi de vardır.
