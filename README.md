@@ -12,3 +12,6 @@ Favori İlanlar: Kullanıcılar, beğendikleri iş ilanlarını favorilere ekley
  4. **HomePage**: Uygulamanın ana sayfasıdır. İş ilanları ve favori ilanlar arasında geçiş yapmayı sağlayan bir alt sekme navigasyonu içerir.
  5. **Cards**: İş ilanlarını listeleyen bir sayfa. JSON dosyasından verileri yükler ve kullanıcıların arama yapmasına ve filtre uygulamasına olanak tanır.
  6. **DetailCardWidget**: İlan detaylarını gösteren özel bir widget. İlanla ilgili ek bilgileri yapılandırmak için kullanılır. 
+
+![image alt](https://github.com/silanadgzl/is_ilan/blob/main/ss1.jpeg?raw=true)
+![Açıklayıcı Metin](ss1.jpg)
